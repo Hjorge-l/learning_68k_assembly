@@ -1,8 +1,8 @@
 *-----------------------------------------------------------
-* Title      :
-* Written by :
-* Date       :
-* Description:
+* Title      : Practice ADD and SUB
+* Written by : Harol Mijael Jorge López
+* Date       : X
+* Description: C.W = A.W + B.W, D.W = A.W - B.W
 *-----------------------------------------------------------
     ORG    $1000
 A   DC.W    40
